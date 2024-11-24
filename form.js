@@ -1,5 +1,5 @@
 document.getElementById('register').addEventListener('submit', function (event) {
-    event.preventDefault(); // Prevent form submission
+    event.preventDefault();
   
     const firstName = document.getElementById('firstName').value.trim();
     const lastName = document.getElementById('lastName').value.trim();
@@ -9,7 +9,7 @@ document.getElementById('register').addEventListener('submit', function (event) 
     const terms = document.getElementById('terms').checked;
   
     const errorMessage = document.getElementById('error-message');
-    errorMessage.style.display = 'none'; // Hide error message initially
+    errorMessage.style.display = 'none';
   
     if (!firstName || !lastName || !email || !password || !confirmPassword) {
       errorMessage.textContent = 'Please fill in all the fields.';
