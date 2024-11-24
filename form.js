@@ -1,4 +1,5 @@
-document.getElementById('register').addEventListener('submit', function (event) {
+document.getElementById('register').addEventListener('submit', function (event)
+{
     event.preventDefault();
   
     const firstName = document.getElementById('firstName').value.trim();
