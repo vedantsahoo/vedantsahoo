@@ -1,6 +1,10 @@
 <h1 align="center">Hey👋, it's Vedant here</h1>
 
 ###
+<div align="center">
+  Aspiring Full Stack Developer graduating with a BTech in 2028, skilled in Java, Python and Web technologies like HTML, CSS, JavaScript, Node.js, React, PHP & MongoDB and Cloud Platforms like Google Cloud & AWS. Seeking to leverage strong data structures and algorithms knowledge along with experience in AI/ML and Generative AI to contribute to innovative tech projects. Passionate about continuous learning and applying cutting-edge technologies to solve real-world problems.
+</div>
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" alt="python logo"  />
